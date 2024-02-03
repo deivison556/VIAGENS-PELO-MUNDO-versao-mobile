@@ -116,7 +116,7 @@ footer h3 {
 }
 
 /* Container dos paragrafos do rodapé */
-footer #box-paragraph{
+footer #footer-link{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -124,12 +124,12 @@ footer #box-paragraph{
     margin-left: 20px;
 }
 
-footer #box-paragraph a {
+footer #footer-link a {
     color: white;
     padding-bottom: 15px;
     cursor: pointer;
 }
 
-footer #box-paragraph a:hover {
-    color: yellow;
+footer #footer-link a:hover {
+    color: rgb(4, 179, 248);
 }
