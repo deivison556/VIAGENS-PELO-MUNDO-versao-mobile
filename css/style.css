@@ -15,7 +15,7 @@ body {
 
 /* Configurações do background inicial da floresta */
 #background-main {
-    background-image: url(../imagens/fundo.jpg);
+    background-image: url(/VIAGENS-PELO-MUNDO-versao-mobile/imagens/fundo.jpg);
     background-size: cover;
     background-position-y: -120px;
     height: 402px;
@@ -52,7 +52,6 @@ main h1 {
     margin-left: 30px;
     font-weight: bold;
     font-family: 'Roboto';
-
 }
 
 /* Sessão de viagens */
@@ -60,7 +59,6 @@ section {
     background-color: white;
     height: 250px;
     width: 412px;
-
 }
 
 /* Container que segura imagens */
@@ -70,7 +68,6 @@ section {
     justify-content: center;
     margin-top: 50px;
     gap: 45px;
-    
 }
 
 /* Container para configura o background das imagens */
@@ -104,7 +101,6 @@ section {
 }
 
 /* Rodapé do site */
-
 footer {
     width: 412px;
     height: 144px;
